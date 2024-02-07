@@ -6,3 +6,4 @@ Okay Cool bye !
 
 Changing file from the terminal 
 
+Changing file in feature branch
